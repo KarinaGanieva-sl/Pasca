@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\obj\Debug\SessionLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\obj\Debug\SessionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\obj\Debug\SessionLib.dll
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\obj\Debug\SessionLib.pdb
+C:\Users\User\Desktop\курсовая\Pasca\SessionLib\obj\Debug\SessionLib.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\Pasca\SessionLib\bin\Debug\SessionLib.dll
+C:\Users\User\Downloads\Pasca\SessionLib\bin\Debug\SessionLib.pdb
+C:\Users\User\Downloads\Pasca\SessionLib\obj\Debug\SessionLib.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Pasca\SessionLib\obj\Debug\SessionLib.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\Pasca\SessionLib\obj\Debug\SessionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Pasca\SessionLib\obj\Debug\SessionLib.dll
+C:\Users\User\Downloads\Pasca\SessionLib\obj\Debug\SessionLib.pdb
+C:\Users\User\Desktop\Pasca\SessionLib\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\Pasca\SessionLib\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\Pasca\SessionLib\obj\Debug\SessionLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Pasca\SessionLib\obj\Debug\SessionLib.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Pasca\SessionLib\obj\Debug\SessionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pasca\SessionLib\obj\Debug\SessionLib.dll
+C:\Users\User\Desktop\Pasca\SessionLib\obj\Debug\SessionLib.pdb
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\obj\Debug\SessionLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\obj\Debug\SessionLib.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\obj\Debug\SessionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\obj\Debug\SessionLib.dll
+C:\Users\User\Desktop\отчет по курсовой\Pasca\SessionLib\obj\Debug\SessionLib.pdb

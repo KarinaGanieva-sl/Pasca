@@ -1,0 +1,76 @@
+C:\Users\User\Desktop\Pasca\Pasca\bin\Debug\Pasca.exe.config
+C:\Users\User\Desktop\Pasca\Pasca\bin\Debug\Pasca.exe
+C:\Users\User\Desktop\Pasca\Pasca\bin\Debug\Pasca.pdb
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.Properties.Resources.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.exe
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.pdb
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.Main.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\bin\Debug\Pasca.exe.config
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\bin\Debug\Pasca.exe
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\bin\Debug\Pasca.pdb
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.NowSession.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.Main.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.Properties.Resources.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.exe
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.pdb
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.csproj.CopyComplete
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.Parameteres.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.CreatingAuthors.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.Previous_Sessions.resources
+C:\Users\User\Desktop\курсовая\Pasca\Pasca\obj\Debug\Pasca.Results.resources
+C:\Users\User\Downloads\Pasca\Pasca\bin\Debug\Pasca.exe.config
+C:\Users\User\Downloads\Pasca\Pasca\bin\Debug\Pasca.exe
+C:\Users\User\Downloads\Pasca\Pasca\bin\Debug\Pasca.pdb
+C:\Users\User\Downloads\Pasca\Pasca\bin\Debug\SessionLib.dll
+C:\Users\User\Downloads\Pasca\Pasca\bin\Debug\SessionLib.pdb
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.CreatingAuthors.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.NowSession.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.Main.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.Parameteres.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.Previous_Sessions.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.Properties.Resources.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.Results.resources
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.csproj.CopyComplete
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.exe
+C:\Users\User\Downloads\Pasca\Pasca\obj\Debug\Pasca.pdb
+C:\Users\User\Desktop\Pasca\Pasca\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\Pasca\Pasca\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.CreatingAuthors.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.NowSession.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.Parameteres.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.Previous_Sessions.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.Results.resources
+C:\Users\User\Desktop\Pasca\Pasca\obj\Debug\Pasca.csproj.CopyComplete
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\bin\Debug\Pasca.exe.config
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\bin\Debug\Pasca.exe
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\bin\Debug\Pasca.pdb
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\bin\Debug\SessionLib.dll
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\bin\Debug\SessionLib.pdb
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.CreatingAuthors.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.NowSession.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.Main.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.Parameteres.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.Previous_Sessions.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.Properties.Resources.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.Results.resources
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.csproj.GenerateResource.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.csproj.CopyComplete
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.exe
+C:\Users\User\Desktop\отчет по курсовой\Pasca\Pasca\obj\Debug\Pasca.pdb
